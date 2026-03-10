@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkattenuation_tool_document=globalThis.webpackChunkattenuation_tool_document||[]).push([[634],{192:(t,o,n)=>{n.r(o),n.d(o,{default:()=>e});var u=n(6347),a=n(4848);function e(){return(0,a.jsx)(u.rd,{to:"/tutorial/\u3053\u306e\u30ae\u30df\u30c3\u30af\u306b\u3064\u3044\u3066/AttenuationTool"})}}}]);
