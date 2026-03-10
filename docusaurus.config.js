@@ -20,8 +20,8 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://pukorufu.github.io',
-  baseUrl: '/attenuationtool-document/',
+  url: 'https://puk06.github.io',
+  baseUrl: '/AttenuationTool-Document/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
 
