@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'pukorufu', // Usually your GitHub org/user name.
-  projectName: 'attenuationtool-document', // Usually your repo name.
+  organizationName: 'puk06', // Usually your GitHub org/user name.
+  projectName: 'AttenuationTool-Document', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
